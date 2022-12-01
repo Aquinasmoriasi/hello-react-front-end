@@ -35,7 +35,7 @@
 
 # 📖 Hello react front end <a name="about-project"></a>
 
-> This is a simple Front end app that displays random greetings fetched from a rails backend. The app is set up alongside [this rails back-end application](https://github.com/Aquinasmoriasi/hello-rails-back-end.git`) 
+> This is a simple Front end app that displays random greetings fetched from a rails backend. The app is set up alongside [this rails back-end application](https://github.com/Aquinasmoriasi/hello-rails-back-end`) 
 
 ## 🛠 Built With <a name="built-with"></a>
  - React

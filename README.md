@@ -164,7 +164,7 @@ Feel free to check the [issues page](https://github.com/Aquinasmoriasi/hello-rai
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project support it by adding a star at [https://github.com/Aquinasmoriasi/budget-app/stargazers](https://github.com/Aquinasmoriasi/hello-rails-back-end/stargazers)
+> If you like this project support it by adding a star at [https://github.com/Aquinasmoriasi/hello-react-front-end/stargazers](https://github.com/Aquinasmoriasi/hello-rails-back-end/stargazers)
 
 
 
@@ -174,7 +174,7 @@ Feel free to check the [issues page](https://github.com/Aquinasmoriasi/hello-rai
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > I would like to thank all those whose ideas were used in this project. -->
+> I would like to thank all those whose ideas were used in this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
